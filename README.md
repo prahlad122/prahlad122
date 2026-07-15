@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hey, this is Prahlad Nishad.<br>I am a full-stack web developer with strong expertise in MERN Stack: React, Node.js, Express, MongoDB.<br>Expertise in building real-world web projects using modern web technologies, full-stack projects.<br>TripNext - An Airbnb-like platform that allows users to explore, list, and book travel accommodations.<br>Taskify - A full-stack task management platform.<br>Hands-on experience in REST APIs, databases (MongoDB and SQL).<br>Strong problem-solving abilities with consistent practice in Data Structures and Algorithms."
+Hey, this is Prahlad Nishad.<br>
+I am a Full-Stack Web Developer with strong expertise in the MERN Stack (React, Node.js, Express.js, and MongoDB).<br>
+Experienced in building real-world full-stack web applications using modern web technologies.<br>
+**Smart Complaint Classification System for Municipal Corporation** – An AI-powered municipal grievance management platform that classifies complaints automatically, provides real-time notification updates, complaint tracking, and streamlines issue resolution for citizens and administrators.<br>
+**Task Management Platform** – A full-stack task management application that enables users to create, organize, assign, update, and track tasks with secure authentication and role-based access.<br>
+Hands-on experience in developing REST APIs and working with databases such as MongoDB and SQL.<br>
+Strong problem-solving skills with consistent practice in Data Structures and Algorithms.
+
 
 
 ## 🌐 Socials:

@@ -1,3 +1,9 @@
+![](https://komarev.com/ghpvc/?username=prahlad122&color=blue)
+![](https://komarev.com/ghpvc/?username=prahlad122&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prahlad122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 # 💫 About Me:
 Hey, this is Prahlad Nishad.<br>
 I am a Full-Stack Web Developer with strong expertise in the MERN Stack (React, Node.js, Express.js, and MongoDB).<br>
